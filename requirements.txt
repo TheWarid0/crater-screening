@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+scikit-learn
+xgboost
+pyshtools>=4.10
+rasterio
+jupyter
